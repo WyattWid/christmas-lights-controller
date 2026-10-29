@@ -6,7 +6,7 @@ This project is a custom-built Christmas light show controller that synchronizes
 
 The system uses a Unity interface to create light patterns, an Arduino to control the light outputs, and a Raspberry Pi to coordinate the light patterns with music playback.
 
-Since I self-taught myself to code, I didn't about version control till after the project was complete so everything here was uploaded after completion. :\
+Since I self-taught myself to code, I didn't about version control till after the project was complete so everything here was uploaded after completion. :)
 
 ## How It Works
 
