@@ -22,7 +22,7 @@ The Raspberry Pi sends a 16-character string representing the state of each ligh
 
 ### Hardware
 
-- Arduino-compatible microcontroller
+- Arduino Uno microcontroller
 - Raspberry Pi
 - 74HC595 shift registers
 - 2, 8-channel relay boards
